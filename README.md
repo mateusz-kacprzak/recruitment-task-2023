@@ -1,4 +1,4 @@
-# recruitment-task-2023
+# Recruitment task 2023 :duck:
 ## Goal
 Your task is to implement a program that retrieves numbers via the REST service and picks only prime numbers. It must continue until ***20 distinct prime numbers*** are collected.
 Once this is done, the following information must be provided to the end-user:
